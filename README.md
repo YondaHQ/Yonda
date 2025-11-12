@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, shall we meet? I'm Yonda
+# Hi there, shall we meet? I'm [Yonda](https://yonda.tech)
 
 ## Your AI Partner Helps You Better Write, Draw and Present.</div>
 
